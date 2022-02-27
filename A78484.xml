@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine prophesies presented before the Kings Maiesty by the scholers of Trinity Colledge in the Vniversity of Cambridge. 1. Touching England in Generall. 2. Touching the court. 3. The church. 4. The seas. 5. The university. 6. The gentry. 7. The City. 8. Ports and castles. 9. Land. 10. Rome. With some other remarkable prophesies of divers other learned scholers, concerning the estate of the church, and people, wherein is to be read many remarkable passages worthy of observation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78484</idno>
+            <idno type="STC">Wing C1727</idno>
+            <idno type="STC">Thomason E118_41</idno>
+            <idno type="STC">ESTC R11851</idno>
+            <idno type="EEBO-CITATION">99859154</idno>
+            <idno type="PROQUEST">99859154</idno>
+            <idno type="VID">156114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156114)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine prophesies presented before the Kings Maiesty by the scholers of Trinity Colledge in the Vniversity of Cambridge. 1. Touching England in Generall. 2. Touching the court. 3. The church. 4. The seas. 5. The university. 6. The gentry. 7. The City. 8. Ports and castles. 9. Land. 10. Rome. With some other remarkable prophesies of divers other learned scholers, concerning the estate of the church, and people, wherein is to be read many remarkable passages worthy of observation.</title>
+                  <author>Trinity College (University of Cambridge)</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for T.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Annotation on Thomason copy: "Sep: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156114:1" rendition="simple:additions"/>
+            <p>CERTAINE Propheſies preſented before the Kings Maieſty by the Scholers of Trinity Colledge in the Vniverſity of Cambridge.</p>
+            <list>
+               <item>1. Touching England in Generall.</item>
+               <item>2. Touching the Court.</item>
+               <item>3. The Church.</item>
+               <item>4. The Seas.</item>
+               <item>5. The Univerſity.</item>
+               <item>6. The Gentry.</item>
+               <item>7. The City.</item>
+               <item>8. Ports and Caſtles.</item>
+               <item>9. Land.</item>
+               <item>10. Rome.</item>
+            </list>
+            <p>With ſome other Remarkable Propheſies of divers other learned Scholers, concerning the eſtate of the Church, and people, wherein is to be read many Remarkable Paſſages worthy of obſervation.</p>
+            <figure>
+               <figDesc>fanciful depiction of an astrologer</figDesc>
+            </figure>
+            <p>Printed at London for T. B. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156114:2"/>
+            <pb n="1" facs="tcp:156114:2"/>
+            <head>
+               <hi>Certaine</hi> Propheſies preſented be<g ref="char:EOLhyphen"/>fore the Kings Maieſty, by the Scholers of Trinity Colledge, in the Univerſity of Cambridge.</head>
+            <div n="1" type="part">
+               <head>1. <hi>Touching England in generall.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Church is ſomething Ceremoni<g ref="char:EOLhyphen"/>us, which ſhall be tryed, but firſt harkned for, and nothing heard a long time, but when the <hi>vertex</hi> of the Organ doth perpendicularly point out our Zenith, then ſhall it be heard.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>Of the Court.</hi>
+               </head>
+               <p>Wonders! Wonders! we ſee as in a Land-skip, an honourable throng of Noble perſons, as cleare as
+<pb n="2" facs="tcp:156114:3"/>if we were under the ſame roofe; concerning whom it ſeemes by their gracious browes, and courteous looks; ſomething they ſow, which if it be indifferent they will favourably accept, if otherwiſe, they will pardon: and theſe be noble Courtiers.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. <hi>Concerning the Church.</hi>
+               </head>
+               <p>Though Romes Iliad draw the Moone ſo neare, that indeed you would ſweare that the buſh of Thornes that is in it pricks your eyes; yet ſhall there come a Chriſtall of a large Arch-multiplied Milli<g ref="char:EOLhyphen"/>ons, which by refractious Opticks, and ſtrength ſearcheth like the eye of Truth, all Cloſets that have windowes.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4. <hi>Concerning the Seas.</hi>
+               </head>
+               <p>I ſee a Stranger ſayling towards Dover Pier, &amp;c.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. <hi>Concerning the Vniverſity.</hi>
+               </head>
+               <p>See, an Hall thruſt full of bare heads; ſome bald, ſome buſht, ſome bravely brancht, well larded with Towneſ-men; grave, wiſe, and modeſt.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6. <hi>Concerning the Gentry.</hi>
+               </head>
+               <p>Wee heare an humming noyſe of laughter, the Court and Univerſity are merry with an old Gentle<g ref="char:EOLhyphen"/>man in a Comedy.</p>
+            </div>
+            <div n="7" type="part">
+               <head>7. <hi>Concerning the City.</hi>
+               </head>
+               <p>The City ſhall have a Glaſſe, which with the helpe of an other refractive proſpect, ſhall ſerve to ſee fifty
+<pb n="3" facs="tcp:156114:3"/>miles, and that the dimme ſight of threeſcore, may looking find the ſame ſight with them of thirty.</p>
+            </div>
+            <div n="8" type="part">
+               <head>8. <hi>Concerning Ports, Caſtles, and Forts.</hi>
+               </head>
+               <p>Wee ſee <hi>Cariatus Perſius</hi> landing at Dover, atten<g ref="char:EOLhyphen"/>ded by two Porters, that ſeeme to groane under the burden of two load of paper; and hee hath brought with him from beyond ſea a ſtrange obſervation.</p>
+            </div>
+            <div n="9" type="part">
+               <head>9. <hi>Concerning the Land.</hi>
+               </head>
+               <p>Oh Caeleſtiall Muſick; but it ſeemes farre off at the firſt, then ſtrange, and after a ſilence againe moſt An<g ref="char:EOLhyphen"/>gelicall and heavenly; one verſe of which I ſet down, viz.</p>
+               <lg>
+                  <l>Sing ſweetly, that our notes may cauſe</l>
+                  <l>The Heavenly Orbes themſelves to pauſe;</l>
+                  <l>And at this Muſick ſtand as ſtill,</l>
+                  <l>As at <hi>Jove</hi> his amarous will:</l>
+                  <l>So now releaſe them as before,</l>
+                  <l>Th'ave waited long enough; no more.</l>
+               </lg>
+            </div>
+            <div n="10" type="part">
+               <head>10. <hi>Concerning Rome.</hi>
+               </head>
+               <p>In the laſt place have at Rome; I ſee the Pope his Cardinalls, and his Mules, the Engliſh Colledge and the Ieſuits, there writing, and doing ſhall be diſcove<g ref="char:EOLhyphen"/>red, though they have long ſtood, and are growne <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> old.</p>
+            </div>
+            <div type="part">
+               <head>The Propheſies and Predictions of Maſter <hi>Wilſon</hi> and others.</head>
+               <p>ROme, and Romiſh both City, and Country (as it ſtandeth now under the Pope, and his Mitted Biſhops, and Clergie) ſhall not onely be ſubject unto
+<pb n="4" facs="tcp:156114:4"/>ruine, and deſtruction, but that moſt certainely, it is to be pulled downe, looſing by little, and little their riches, glory, ſtrength, credit of Religion, and holi<g ref="char:EOLhyphen"/>neſſe, which made them honoured, followed and fea<g ref="char:EOLhyphen"/>red of Kings, and Nations, this fall draweth on a<g ref="char:EOLhyphen"/>pace, and haſteneth.</p>
+               <p>The great ſwarms of popiſh Prieſts, Friars, Monks and Cardinalls, and the whole Popiſh Hierarchy, and pontificall Clergy, which like filthy locuſts ſpringing out of ſmoake fly together in ſo great heapes, in the weſt ſhall be blown away with an eaſt winde.</p>
+               <p>It is worth the taking notice, 1. That the bare pro<g ref="char:EOLhyphen"/>feſſion of being a member of the Latin Church, 2. of the Romiſh Church, 3. The criſme in the Sacrament of confirmation, of which many do ſo boaſt, ſhall plainly appear to be a publike ſigne, and token to be the mark of the beaſt.</p>
+               <p>The great degenerate ſtars of the Church; who through pride and ambition fall into hereſie and im<g ref="char:EOLhyphen"/>piety, ſhall fall themſelves.</p>
+               <p>Twelve hundred and threeſcore years is the ſpace of time, wherein (from the firſt riſing of Anti-chriſt, all his encreaſe; his waxing, wounding, reviving, and taking heart againe, to execute his cruelty in that City, which was the Queene of the world, where he and his Favourite ſhould bath themſelves in pleaſures) after the ſaid 1260. yeares are accompli<g ref="char:EOLhyphen"/>ſhed, then ſhall theſe things be.</p>
+               <p>All things in the world doe take their time, the bird to build her neſt, the huſbandman to ſow his ſeed the marriner to go to ſea, the gardiner to ſet his trees, the ſick Parient to take phyſicke, the cooke to ſeaſon
+<pb n="7" facs="tcp:156114:4"/>meats, and the dreſſer of his Vineyard to gather his fruit. It will be too late for birds to build in Sum<g ref="char:EOLhyphen"/>mer, to ſow in harveſt, to goe to ſea when after the ſhip is launched, to tranſplant trees when they are old, to take phyſicke when we are dying, to ſeaſon meates when they are unſavory, and when winter is come to gather fruit. The five fooliſh virgins came too late, <hi>Dives</hi> in hell repented too late, the time preſent is only ours, is the figtree fruitleſſe, never ſhal fruit grow on it more.</p>
+               <p>But oh alas, are wee not like the Epheſians, wee have loſt our firſt love, or are we not like the Laodi<g ref="char:EOLhyphen"/>ceans, we are neither hot nor cold, or the twilight, neither day nor night, or the Autumn, neither fair nor foule, or one ſick of an ague, one day well, another ill? or a man in a lithurgie, neither alive nor dead: or an <hi>Hemaphrodite,</hi> neither male nor female, or to thoſe creatures called in Greek <hi>Amphibia,</hi> which live in wa<g ref="char:EOLhyphen"/>ter or on land: or the marigold which ſhutteth and openeth with the ſun? I would to God that we were either hot or cold: that as the holloweſt regions bring forth ſweeteſt ſpices, ſo zealous profeſſors might be greateſt practiſers of good workes: that as the ſun in the heaven is ſwiteſt at her ſetting, ſo the ſonnes of God might be beſt at their ending But is it ſo? no: the more we are taught, the more ignorant many are, &amp; the older we are, the colder in religion.</p>
+               <p>We have indeed many of us, as it was ſaid of <hi>Ari<g ref="char:EOLhyphen"/>ſtogriou, Mert<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m,</hi> or rather <hi>religioneman linguâ,</hi> reli<g ref="char:EOLhyphen"/>on in tongue: but when tryall is made of us, every <hi>Phocion</hi> can eſpy our halting: And then with <hi>Archilo<g ref="char:EOLhyphen"/>cus</hi> we think it better, <hi>Clypeum abjicere quam interire,</hi>
+                  <pb n="6" facs="tcp:156114:5" rendition="simple:additions"/>even to caſt off all Religion, then to undergo the leaſt diſgrace or loſſe for religion.</p>
+               <p>The Moon deſiring to be aparrelled as the reſt of the planets, anſwer was made her, that her divers changes could admit no kind of habit, and whilſt we deſire to be attired with the robes of Chriſtians, it is to be feared, that if we tread not the moon under our feete, wee ſhall never be cloathed as the Church was with the ſun.</p>
+               <p>But notwithſtanding the change of times, and in<g ref="char:EOLhyphen"/>ſtability of moſt people, there is nevertheleſſe ſome who keep cloſe unto God, for whoſe ſake, God of his infinite mercy, and God hath appointed times, &amp; ſeaſons, ſorow, and joy, and every thing in due and proper time, and running their race towards heaven, are with joy brought thither in Gods own time, of whom <hi>Prudentius</hi> ſaith,
+<q>
+                     <lg>
+                        <l>
+                           <hi>Generoſa Chriſti ſecta nobilit at viros,</hi>
+                        </l>
+                        <l>
+                           <hi>Cui quiſquis ſervit, ille verè eſt nobilis.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>He noble is that comes of Chriſt his race,</l>
+                        <l>Who ſerves this Lord, he ſurely is not baſe.</l>
+                     </lg>
+                  </q>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
